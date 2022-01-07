@@ -65,3 +65,12 @@ rm -rf LeaderF
 rm -rf YouCompleteMe # 不想安装，mac下有些补齐比较难安装
 ```
 
+10. 常用软件
+
+- zoom.us
+- final cut pro
+- Xcode
+- twitter
+- discord
+- wechat
+
